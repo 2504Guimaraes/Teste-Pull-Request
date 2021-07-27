@@ -15,6 +15,10 @@ Meu repositório terá um projeto de teste dentro dele, ele tem essa aparência:
 
 Vamos testar nossos pull requests nele.
 
-## ## 2º Passo: Crie um novo branch / galho para o seu projeto
+## 2º Passo: Crie um novo branch / galho para o seu projeto
 
-Imagine o seguinte...
+Imagine o seguinte:
+
+Você tem um repositório com um projeto seu, e você quer testar modificações
+que inovarão seu projeto, mas você não tem certeza se as mesmas darão certo.
+Então logicamente, você cria um novo branch para testar suas ideias.

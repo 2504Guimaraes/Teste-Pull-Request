@@ -22,3 +22,10 @@ Imagine o seguinte:
 Você tem um repositório com um projeto seu, e você quer testar modificações
 que inovarão seu projeto, mas você não tem certeza se as mesmas darão certo.
 Então logicamente, você cria um novo branch para testar suas ideias.
+
+Eu vou fazer os seguintes comandos, eles servem para todas as situações na qual temos um projeto e queremos criar um novo branch para adicionar uma modificação no mesmo.
+
+    1. git branch   <- mostra todos os seus branchs (por padrão você tem só 1).
+    2. git branch --show-current  <- mostra o branch em que você está dentro.
+    3. git branch "novoCss"  <- cria um novo a partir desse branch ao qual você está.
+    4. git checkout novoCss  <- sai do branch atual e faz você entrar no branch criado.

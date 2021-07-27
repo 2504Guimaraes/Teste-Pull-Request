@@ -7,3 +7,9 @@ No meu caso, eu criei esse repositório para servir de base para esse
 tutorial. No momento em que eu escrevi isso ele está com essa cara:
 
 !['img-repositorio'](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img1.PNG)
+
+Meu repositório terá um projeto de teste dentro dele, ele tem essa aparência:
+
+...
+
+Vamos testar nossos pull requests nele.

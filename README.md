@@ -29,3 +29,11 @@ Eu vou fazer os seguintes comandos, eles servem para todas as situações na qua
     2. git branch --show-current  <- mostra o branch em que você está dentro.
     3. git branch "novoCss"  <- cria um novo a partir desse branch ao qual você está.
     4. git checkout novoCss  <- sai do branch atual e faz você entrar no branch criado.
+
+Dependendo do seu caso, você pode fazer apenas os passos 3 e 4. E se você não estiver no branch o qual você deseja criar algo a partir; digite o comando:
+
+    git checkout nome-branch-que-vc-quer
+
+Assim você vai entrar nele, caso ele exista.
+
+Bem, eu vou criar um novo branch com esse nome *novoCss* e entrarei no mesmo para "testar" minha nova ideia genial, e se bem sucedida, mesclá-la ao meu branch principal. 

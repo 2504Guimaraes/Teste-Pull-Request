@@ -10,6 +10,11 @@ tutorial. No momento em que eu escrevi isso ele está com essa cara:
 
 Meu repositório terá um projeto de teste dentro dele, ele tem essa aparência:
 
-!['img-meu-projeto-de-teste'](#)
+!['img-meu-projeto-de-teste'](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img2-atualizada.PNG)
+
 
 Vamos testar nossos pull requests nele.
+
+## ## 2º Passo: Crie um novo branch / galho para o seu projeto
+
+Imagine o seguinte...

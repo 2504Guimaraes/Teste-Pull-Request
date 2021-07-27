@@ -10,6 +10,10 @@ tutorial. No momento em que eu escrevi isso ele está com essa cara:
 
 Meu repositório terá um projeto de teste dentro dele, ele tem essa aparência:
 
+--- 
+
 !['img-meu-projeto-de-teste'](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img2.PNG)
 
-Vamos testar nossos pull requests nele.
+---
+
+**Vamos testar nossos pull requests nele.**

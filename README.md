@@ -60,3 +60,12 @@ Com isso a necessidade de 2 branches experimentais será finalizada, e eu podere
 Após eu adicionar meu media query, meu design agora é responsivo. Assim:
 
 ![design-responsivo](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img4.PNG)
+
+
+## 4º Passo: Fazer pull requests e mesclar branchs
+
+Caso minha responsividade no meu terceiro branch for bem sucedida, farei um **pull request** para ver se o meu branch está apto para se fundir ao meu outro branch desejado (novoCss). **Com isso meu branch novoCSS possuirá responsividade**, e se eu sentir que estou satisfeito com meus resultados, farei um *pull request* novamente e mesclarei ele com meu branch master. **Assim, transferindo minhas inovações para master.**
+
+Ilustração desse processo:
+
+![img-pull-requests](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img5.jpg)

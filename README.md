@@ -42,7 +42,7 @@ Bem, eu vou criar um novo branch com esse nome *novoCss* e entrarei no mesmo par
 
 Bem, minha *"ideia genial"* era simplesmente adicionar CSS ao meu projeto, no caso, ficou desse jeito:
 
-![img-adicao-css-no-proj](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/novoCss/images/img3b.PNG)
+![img-adicao-css-no-proj](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img3b.PNG)
 
 Agora que adicionei meu CSS, criarei um novo branch para dar design responsivo a meu HTML/CSS.
 
@@ -59,7 +59,7 @@ Com isso a necessidade de 2 branches experimentais será finalizada, e eu podere
 
 Após eu adicionar meu media query, meu design agora é responsivo. Assim:
 
-![design-responsivo](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img4.PNG)
+![design-responsivo](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img4.PNG)
 
 
 ## 4º Passo: Fazer pull requests e mesclar branchs
@@ -68,4 +68,10 @@ Caso minha responsividade no meu terceiro branch for bem sucedida, farei um **pu
 
 Ilustração desse processo:
 
-![img-pull-requests](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img5b.jpg)
+![img-pull-requests](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img5b.jpg)
+
+### Conclusão do 4º Passo
+
+Para finalizar o tópico, como as urls das imagens não existem mais, já que
+meus branchs 2 e 3 foram excluídos, após mesclar todas as novidades ao
+meu master, eu atualizei as urls dos meus links.

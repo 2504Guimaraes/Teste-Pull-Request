@@ -51,7 +51,6 @@ Agora que adicionei meu CSS, criarei um novo branch para dar design responsivo a
 Aqui no caso, adicionarei um novo branch chamado addingMediaQuery
 para testar minha 2º nova ideia, caso eu o ache bem sucedido, futuramente
 farei um **pull request** e o **mesclarei / farei merge dele** no meu branch
-novoCss. E assim, se eu achar que o branch novoCSS (agora com responsividade adicionada) ficou bom, eu farei um pull request denovo, e o mesclarei no master. 
+novoCss. E assim, se eu achar que o branch novoCSS (agora com responsividade adicionada) ficou bom, eu farei um pull request de novo, e o mesclarei no master. 
 
-Com isso a necessidade de 2 branches de teste será finalizada, e eu poderei apenas ficar com meu branch master pois o mesmo já absorveu as característica
-desses dois. 
+Com isso a necessidade de 2 branches experimentais será finalizada, e eu poderei apenas ficar com meu branch master pois o mesmo já absorveu as características que eu desejava desses dois. 

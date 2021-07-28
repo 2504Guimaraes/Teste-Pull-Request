@@ -68,4 +68,4 @@ Caso minha responsividade no meu terceiro branch for bem sucedida, farei um **pu
 
 Ilustração desse processo:
 
-![img-pull-requests](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img5.jpg)
+![img-pull-requests](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img5b.jpg)

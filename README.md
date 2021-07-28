@@ -54,3 +54,9 @@ farei um **pull request** e o **mesclarei / farei merge dele** no meu branch
 novoCss. E assim, se eu achar que o branch novoCSS (agora com responsividade adicionada) ficou bom, eu farei um pull request de novo, e o mesclarei no master. 
 
 Com isso a necessidade de 2 branches experimentais será finalizada, e eu poderei apenas ficar com meu branch master pois o mesmo já absorveu as características que eu desejava desses dois. 
+
+### Conclusão do 3º Passo
+
+Após eu adicionar meu media query, meu design agora é responsivo. Assim:
+
+![design-responsivo](#)

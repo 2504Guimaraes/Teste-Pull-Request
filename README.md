@@ -59,4 +59,4 @@ Com isso a necessidade de 2 branches experimentais será finalizada, e eu podere
 
 Após eu adicionar meu media query, meu design agora é responsivo. Assim:
 
-![design-responsivo](#)
+![design-responsivo](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/addingMediaQuery/images/img4.PNG)

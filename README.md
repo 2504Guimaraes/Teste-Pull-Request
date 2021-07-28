@@ -6,11 +6,11 @@ auxílio do nosso TCC (TCC Fatec Rubens Lara 2º Sem 2021) e afins! 😄
 No meu caso, eu criei esse repositório para servir de base para esse
 tutorial. No momento em que eu escrevi isso ele está com essa cara:
 
-!['img-repositorio'](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img1.PNG)
+![img-repositorio](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img1.PNG)
 
 Meu repositório terá um projeto de teste dentro dele, ele tem essa aparência:
 
-!['img-meu-projeto-de-teste'](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img2.PNG)
+![img-meu-projeto-de-teste](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/master/images/img2.PNG)
 
 
 Vamos testar nossos pull requests nele.
@@ -37,3 +37,9 @@ Dependendo do seu caso, você pode fazer apenas os passos 3 e 4. E se você não
 Assim você vai entrar nele, caso ele exista.
 
 Bem, eu vou criar um novo branch com esse nome *novoCss* e entrarei no mesmo para "testar" minha nova ideia genial, e se bem sucedida, mesclá-la ao meu branch principal. 
+
+### Conclusão do 2º Passo
+
+Bem, minha *"ideia genial"* era simplesmente adicionar CSS ao meu projeto, no caso, ficou desse jeito:
+
+![img-adicao-css-no-proj](#)

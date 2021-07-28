@@ -42,4 +42,4 @@ Bem, eu vou criar um novo branch com esse nome *novoCss* e entrarei no mesmo par
 
 Bem, minha *"ideia genial"* era simplesmente adicionar CSS ao meu projeto, no caso, ficou desse jeito:
 
-![img-adicao-css-no-proj](#)
+![img-adicao-css-no-proj](https://raw.githubusercontent.com/2504Guimaraes/Teste-Pull-Request/novoCss/images/img3.PNG)

@@ -46,7 +46,7 @@ Bem, minha *"ideia genial"* era simplesmente adicionar CSS ao meu projeto, no ca
 
 Agora que adicionei meu CSS, criarei um novo branch para dar design responsivo a meu HTML/CSS.
 
-## 3º Passo: Adicione um mais novo branch para o seu projeto
+## 3º Passo: Adicione mais um novo branch para o seu projeto
 
 Aqui no caso, adicionarei um novo branch chamado addingMediaQuery
 para testar minha 2º nova ideia, caso eu o ache bem sucedido, futuramente
